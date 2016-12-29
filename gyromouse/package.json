@@ -1,0 +1,17 @@
+{
+  "name": "gyromouse",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremy Lee",
+  "license": "ISC",
+  "dependencies": {
+	"es6-shim": "0.35.1",
+    "i2c-bus": "1.1.0",
+    "pigpio": "0.3.4",
+    "uinput": "1.0.0"
+  }
+}
